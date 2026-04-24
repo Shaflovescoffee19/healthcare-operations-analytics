@@ -22,6 +22,7 @@ Hospital administrators face critical challenges in managing patient flow, bed u
 | Matplotlib & Seaborn | 5 business charts with insight captions |
 | openpyxl | 4-sheet Excel report with KPI dashboard |
 | Git & GitHub | Version control and portfolio hosting |
+| Power BI | 5-chart interactive dashboard with KPI visuals |
 
 ## Business Recommendations
 1. Redistribute patient load from Gynecology through triage protocol revision
