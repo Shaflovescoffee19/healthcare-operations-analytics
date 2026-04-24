@@ -31,6 +31,5 @@ Hospital administrators face critical challenges in managing patient flow, bed u
 5. Commission regional capacity audit for Regions Y and Z
 
 ## Author
-**Mohiraa Shafreen** | Computational Biologist & Data Analyst  
-9 peer-reviewed publications in life sciences | MSc Biotechnology  
+**Mohiraa Shafreen** *M. Tech Biotechnology* | 8 peer-reviewed publications in life sciences |  
 [GitHub](https://github.com/Shaflovescoffee19)
